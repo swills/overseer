@@ -1,4 +1,4 @@
-module github.com/ShinyTrinkets/overseer
+module github.com/swills/overseer
 
 go 1.17
 
